@@ -29,7 +29,7 @@ Vá para o diretório do projeto
 
 ```bash
 
-cd ela_de_login_Netflix
+cd Tela_de_login_Netflix
 
 
 ```
