@@ -1,5 +1,7 @@
 
 # Tela de login Netflix
+![Tela de login](https://github.com/Matheus-Sanada/Tela_de_login_Netflix/blob/main/assets/project/Tela%20de%20login.png)
+
 
 
 ## 🚀  Tecnologias
